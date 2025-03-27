@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.square{
+    width: 50vh;
+    height: 40vh;
+    background-color: black;
+    text-align: center;  
+    border-radius: 10px;
+}
+button{
+    height: 1cm;
+    width: 2cm;
+    background-color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
